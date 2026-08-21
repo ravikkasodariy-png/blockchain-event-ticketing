@@ -1,0 +1,19 @@
+{
+  "name": "blockchain-event-ticketing-contracts",
+  "version": "1.0.0",
+  "description": "Smart contracts for Decentralized Event Ticketing App",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test",
+    "compile": "hardhat compile",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "node": "hardhat node"
+  },
+  "keywords": ["solidity", "hardhat", "ethereum", "web3", "ticketing"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.22.2"
+  }
+}

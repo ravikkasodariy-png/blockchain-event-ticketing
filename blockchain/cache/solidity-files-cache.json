@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\pc\\.gemini\\antigravity\\scratch\\blockchain-event-ticketing\\blockchain\\contracts\\EventTicketing.sol": {
+      "lastModificationDate": 1787278764386,
+      "contentHash": "694a82d8e83fcb0d4df61e0699315ff2",
+      "sourceName": "contracts/EventTicketing.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "EventTicketing"
+      ]
+    }
+  }
+}
